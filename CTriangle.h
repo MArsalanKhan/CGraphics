@@ -1,8 +1,8 @@
 /*
  * CTriangle.h
  *
- *  Created on: Dec 11, 2013
- *      Author: Admin
+ *  Created on: Dec 11, 2015
+ *      Author: Arsalan
  */
 
 #ifndef CTRIANGLE_H
@@ -36,8 +36,8 @@ protected:
 /*
  * CTriangle.cpp
  *
- *  Created on: Dec 11, 2013
- *      Author: Admin
+ *  Created on: Dec 11, 2015
+ *      Author: Arsalan
  */
 
 //#include <iostream>
