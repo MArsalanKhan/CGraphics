@@ -1,8 +1,8 @@
 /*
  * CCoordinate.h
  *
- *  Created on: Dec 11, 2013
- *      Author: Admin
+ *  Created on: Dec 11, 2015
+ *      Author: Arsalan
  */
 
 #ifndef CCOORDINATE_H_
@@ -55,8 +55,8 @@ void prr();
 /*
  * CCoordinate.cpp
  *
- *  Created on: Dec 11, 2013
- *      Author: Admin
+ *  Created on: Dec 11, 2015
+ *      Author: Arsalan
 */
 
 
