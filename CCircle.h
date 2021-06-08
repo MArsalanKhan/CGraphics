@@ -1,8 +1,8 @@
 /*
  * CCircle.h
  *
- *  Created on: Dec 11, 2013
- *      Author: Admin
+ *  Created on: Dec 11, 2015
+ *      Author: Arsalan
  */
 
 #ifndef CCIRCLE_H
@@ -38,8 +38,8 @@ public:
 /*
  * CCircle.cpp
  *
- *  Created on: Dec 11, 2013
- *      Author: Admin
+ *  Created on: Dec 11, 2015
+ *      Author: Arsalan
  */
 
 //#include <iostream>
