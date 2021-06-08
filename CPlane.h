@@ -1,8 +1,8 @@
 /*
  * CPlane.h
  *
- *  Created on: Dec 11, 2013
- *      Author: Admin
+ *  Created on: Dec 11, 2015
+ *      Author: Arsalan
  */
 
 #ifndef CPLANE_H_
@@ -38,8 +38,8 @@ public:
 /*
  * CPlane.cpp
  *
- *  Created on: Dec 11, 2013
- *      Author: Admin
+ *  Created on: Dec 11, 2015
+ *      Author: Arsalan
  */
 //#include "iostream"
 //#include "CPlane.h"
