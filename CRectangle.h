@@ -1,8 +1,8 @@
 /*
  * CRectangle.h
  *
- *  Created on: Dec 11, 2013
- *      Author: Admin
+ *  Created on: Dec 11, 2015
+ *      Author: Arsalan
  */
 
 #ifndef CRECTANGLE_H
@@ -34,8 +34,8 @@ public:
 /*
  * CRectangle.cpp
  *
- *  Created on: Dec 11, 2013
- *      Author: Admin
+ *  Created on: Dec 11, 2015
+ *      Author: Arsalan
  */
 
 //constructor that uses the self implemented method of setting point R for the complete initialization of Rectangle
