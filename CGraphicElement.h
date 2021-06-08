@@ -1,8 +1,8 @@
 /*
  * CGraphicElement.h
  *
- *  Created on: Dec 11, 2013
- *      Author: Admin
+ *  Created on: Dec 11, 2015
+ *      Author: Arsalan
  */
 
 #ifndef CGRAPHICELEMENT_H_
@@ -44,8 +44,8 @@ public:
 /*
  * CGraphicElement.cpp
  *
- *  Created on: Dec 11, 2013
- *      Author: Admin
+ *  Created on: Dec 11, 2015
+ *      Author: Arsalan
  */
 
 
