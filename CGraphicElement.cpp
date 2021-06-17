@@ -3,10 +3,9 @@
 
 ////////////////////////////////////////////////////////////////////////////////
 // Header-Dateien
-#include <iostream>				// Header für die Standard-IO-Objekte (z.B. cout, cin)
+#include <iostream>				// Header fÃ¼r die Standard-IO-Objekte (z.B. cout, cin)
 #include <stdlib.h>
-	// TODO: Fügen Sie hier weitere benötigte Header-Dateien ein
-
+	
 
 using namespace std;			// erspart, den scope vor Objekte der C++-Standard-Bibliothek zu schreiben
 								// z.B. statt "std::cout" kann man "cout" schreiben
